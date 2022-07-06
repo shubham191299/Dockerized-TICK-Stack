@@ -1,4 +1,4 @@
-# Implementation-of-TICK-Stack-in-a-Dockerized-Environment
+# Dockerized TICK-Stack
 This repo show you how you can dockerize TICK Stack.
 
 For this you need to install ubuntu. My ubuntu version is 20.04 LTS. 
